@@ -1,0 +1,1 @@
+cp ../../src/mkmf/templates/linux-ubuntu-xenial-gnu.mk ./gnu12.mk
